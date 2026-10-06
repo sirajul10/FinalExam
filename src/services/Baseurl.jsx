@@ -1,0 +1,1 @@
+export const baseurl = "https://final-p353.onrender.com/";
